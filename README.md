@@ -1,2 +1,2 @@
-# game-of-life
-practice-jenkins-java-deploy
+# Game-Of-Life
+Java实现生命游戏
